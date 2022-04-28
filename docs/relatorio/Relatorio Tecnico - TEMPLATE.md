@@ -69,9 +69,6 @@ Melhorar a qualidade de vida e a informação das pessoas que procuram uma melho
 > específicos dependendo de onde você vai querer concentrar a sua
 > prática investigativa, ou como você vai aprofundar no seu trabalho.
 > 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 Em geral, as pessoas encontram dificuldades a respeito de calcular a quantidade de calorias e nutrientes que elas consomem. O projeto facilita a vida de tais usuários como uma forma mais fácil de controlar sua alimentação e conseguirem atingir seus objetivos.
@@ -85,8 +82,6 @@ Em geral, as pessoas encontram dificuldades a respeito de calcular a quantidade 
 > dados estatísticos, que podem ser apresentados, com o objetivo de
 > esclarecer detalhes do problema que será abordado pelo grupo.
 >
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -103,9 +98,6 @@ Pessoas com interesse em controlar sua alimentação, entre 20 a 60 anos, que j�
 > textual, ou diagramas de personas, mapa de stakeholders, ou como o
 > grupo achar mais conveniente.
 > 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
