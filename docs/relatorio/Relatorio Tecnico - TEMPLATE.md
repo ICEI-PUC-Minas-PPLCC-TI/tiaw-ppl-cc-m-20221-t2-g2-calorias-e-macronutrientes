@@ -186,36 +186,22 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+![Captura de Tela (75)](https://user-images.githubusercontent.com/104525278/165855248-c0a92db2-97bd-4f01-8328-51ca187d5698.png)
+![Captura de Tela (77)](https://user-images.githubusercontent.com/104525278/165855437-0e7f01f9-4cab-4c8c-8dc2-16a34dcd6163.png)
+![Captura de Tela (78)](https://user-images.githubusercontent.com/104525278/165855579-3970e6d5-0fa6-4eac-a364-4edd4fe6a96c.png)
+![Captura de Tela (79)](https://user-images.githubusercontent.com/104525278/165855680-4904ee7a-ffb3-4425-85cc-051c10da0b6a.png)
+![Captura de Tela (80)](https://user-images.githubusercontent.com/104525278/165855779-9dd67424-9e2b-4da8-b924-91b3a1ce9763.png)
 
 
 ## Wireframes
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
->Tela de Login:
->![image](https://user-images.githubusercontent.com/104468261/165855347-c2989814-f163-486f-aee6-dba874c5772d.png)
->Login como Prestador de Serviço:
->![image](https://user-images.githubusercontent.com/104468261/165855483-683f7dae-a0d3-48e5-9dc2-6bf6a07b769f.png)
->![image](https://user-images.githubusercontent.com/104468261/165855537-89646f21-8877-4fa6-a2fe-c1012ec2d61d.png)
->Login como Usuário Final:
->![image](https://user-images.githubusercontent.com/104468261/165855591-1fa86c8a-ee58-411f-86c2-6212622ca070.png)
->![image](https://user-images.githubusercontent.com/104468261/165855633-c90c3e35-9c64-4c69-9bc4-a47266020f5d.png)
-
+> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
+> estrutura de um site web e seu relacionamentos entre suas
+> páginas. Um wireframe web é uma ilustração semelhante ao
+> layout de elementos fundamentais na interface.
+> 
 > **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
 > - [Figma](https://www.figma.com/)
