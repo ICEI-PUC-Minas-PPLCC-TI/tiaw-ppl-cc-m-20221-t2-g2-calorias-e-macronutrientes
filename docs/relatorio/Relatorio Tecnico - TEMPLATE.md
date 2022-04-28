@@ -61,40 +61,17 @@ Durante o processo de emagrecimento e/ou ganho muscular, as pessoas tendem a enc
 
 Melhorar a qualidade de vida e a informação das pessoas que procuram uma melhor forma de alimentação, além de ajudar tais pessoas a atingir seus objetivos estéticos e em relação a saúde.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
+
 ## Justificativa
 
 Em geral, as pessoas encontram dificuldades a respeito de calcular a quantidade de calorias e nutrientes que elas consomem. O projeto facilita a vida de tais usuários como uma forma mais fácil de controlar sua alimentação e conseguirem atingir seus objetivos.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
 
 
 ## Público-Alvo
 
 Pessoas com interesse em controlar sua alimentação, entre 20 a 60 anos, que já atingiram uma maturidade e buscam informações para melhorar sua saúde/estética.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
 
  
 # Especificações do Projeto
