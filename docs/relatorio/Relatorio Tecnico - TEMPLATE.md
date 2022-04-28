@@ -14,8 +14,11 @@ ciências da computação
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Caio Oliveira Lima
+> - Thiago Dutra Rezende
+> - Henrique Leite Najar
+> - Luís Henrique Dusanek Guedes
+> - Luiz Felipe Luppi Mendonça
 
 # Estrutura do Documento
 
@@ -56,27 +59,13 @@ ciências da computação
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Durante o processo de emagrecimento e/ou ganho muscular, as pessoas tendem a encontrar barreiras como: entender quais alimentos podem ou não ser consumidos e as suas quantidades, além disso, podem ter alguns problemas gerados pela má alimentação em relação aos nutrientes essenciais para o funcionamento ideal do corpo.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Melhorar a qualidade de vida e a informação das pessoas que procuram uma melhor forma de alimentação, além de ajudar tais pessoas a atingir seus objetivos estéticos e em relação a saúde.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -89,7 +78,7 @@ ciências da computação
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Em geral, as pessoas encontram dificuldades a respeito de calcular a quantidade de calorias e nutrientes que elas consomem. O projeto facilita a vida de tais usuários como uma forma mais fácil de controlar sua alimentação e conseguirem atingir seus objetivos.
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -105,7 +94,7 @@ ciências da computação
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Pessoas com interesse em controlar sua alimentação, entre 20 a 60 anos, que já atingiram uma maturidade e buscam informações para melhorar sua saúde/estética.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -160,23 +149,8 @@ ciências da computação
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+![Captura de Tela (70)](https://user-images.githubusercontent.com/104525278/165852375-43b976ce-785a-4d99-bb9d-acc31ba90bb2.png)
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
@@ -184,57 +158,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+![Captura de Tela (73)](https://user-images.githubusercontent.com/104525278/165853849-ad54e9ea-bfe5-48b9-8c4a-948f75360549.png)
+
+![Captura de Tela (74)](https://user-images.githubusercontent.com/104525278/165853879-91055f5e-7dc3-40ac-9e87-804be1012266.png)
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+![Captura de Tela (71)](https://user-images.githubusercontent.com/104525278/165852903-2a2de43b-1387-4d2e-842a-f06bc70b5f68.png)
 
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+![Captura de Tela (72)](https://user-images.githubusercontent.com/104525278/165853219-9157b8fe-09c8-46e4-b7d6-1aa16690e597.png)
 
 
 # Projeto de Interface
