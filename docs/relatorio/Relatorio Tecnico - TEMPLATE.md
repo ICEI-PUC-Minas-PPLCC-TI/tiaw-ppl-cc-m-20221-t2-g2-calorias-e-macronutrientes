@@ -185,17 +185,6 @@ Login como Usuário Final:
 ![image](https://user-images.githubusercontent.com/104468261/165858036-42f2d07f-4111-47bf-98e8-66ddb2b721bf.png)
 
 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
-
-
 # Metodologia
 
 ......  COLOQUE AQUI O SEU TEXTO ......
