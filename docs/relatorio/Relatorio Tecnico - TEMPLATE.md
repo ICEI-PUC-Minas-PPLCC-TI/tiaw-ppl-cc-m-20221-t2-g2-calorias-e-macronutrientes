@@ -121,7 +121,11 @@ Pessoas com interesse em controlar sua alimentação, entre 20 a 60 anos, que j�
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+![persona 1](https://user-images.githubusercontent.com/104525278/165856707-857f3f30-5ad8-4e0b-8072-9d4ebb50fa0a.jpg)
+
+![persona 2](https://user-images.githubusercontent.com/104525278/165856718-5d2c0bfc-2047-4f1f-94de-0884117ce2b8.jpg)
+
+![persona 3](https://user-images.githubusercontent.com/104525278/165856724-016112ce-631d-481b-8b8d-d2cb5436a841.jpg)
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
