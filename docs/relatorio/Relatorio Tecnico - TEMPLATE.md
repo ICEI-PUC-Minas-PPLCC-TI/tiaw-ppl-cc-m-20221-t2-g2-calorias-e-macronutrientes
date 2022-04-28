@@ -79,7 +79,7 @@ Em geral, as pessoas encontram dificuldades a respeito de calcular a quantidade 
 > O grupo de trabalho pode fazer uso de questionários, entrevistas e
 > dados estatísticos, que podem ser apresentados, com o objetivo de
 > esclarecer detalhes do problema que será abordado pelo grupo.
->
+
 
 ## Público-Alvo
 
@@ -95,7 +95,7 @@ Pessoas com interesse em controlar sua alimentação, entre 20 a 60 anos, que j�
 > Adicione informações sobre o público-alvo por meio de uma descrição
 > textual, ou diagramas de personas, mapa de stakeholders, ou como o
 > grupo achar mais conveniente.
-> 
+
  
 # Especificações do Projeto
 
@@ -139,7 +139,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+PARTE DO LUIZ
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
@@ -172,7 +172,7 @@ Login como Usuário Final:
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+PARTE DO LUIZ
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
