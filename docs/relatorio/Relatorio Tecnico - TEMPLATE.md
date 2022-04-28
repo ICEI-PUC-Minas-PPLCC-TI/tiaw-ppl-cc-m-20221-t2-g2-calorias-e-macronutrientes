@@ -1,11 +1,9 @@
 # Informações do Projeto
 CALORIE MAP  
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 ciências da computação
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Participantes
 
