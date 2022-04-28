@@ -207,11 +207,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
+>Tela de Login:
+>![image](https://user-images.githubusercontent.com/104468261/165855347-c2989814-f163-486f-aee6-dba874c5772d.png)
+>Login como Prestador de Serviço:
+>![image](https://user-images.githubusercontent.com/104468261/165855483-683f7dae-a0d3-48e5-9dc2-6bf6a07b769f.png)
+>![image](https://user-images.githubusercontent.com/104468261/165855537-89646f21-8877-4fa6-a2fe-c1012ec2d61d.png)
+>Login como Usuário Final:
+>![image](https://user-images.githubusercontent.com/104468261/165855591-1fa86c8a-ee58-411f-86c2-6212622ca070.png)
+>![image](https://user-images.githubusercontent.com/104468261/165855633-c90c3e35-9c64-4c69-9bc4-a47266020f5d.png)
+
 > **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
 > - [Figma](https://www.figma.com/)
