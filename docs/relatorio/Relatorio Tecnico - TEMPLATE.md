@@ -1,9 +1,9 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+CALORIE MAP  
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-`CURSO` 
+ciências da computação
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
