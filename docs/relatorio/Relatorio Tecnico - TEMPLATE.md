@@ -17,27 +17,6 @@ ciências da computação
 > - Luiz Felipe Luppi Mendonça
 
 # Estrutura do Documento
--Informações do Projeto
-   -Participantes
--Estrutura do Documento
--Introdução
-   -Problema
-   -Objetivo do Projeto
-   -Justificativa
-   -Público-Alvo
--Especificações do Projeto
-   -Personas e Mapa de Empatia
-   -História de Usuários
-   -Requisitos
-     -Requisitos funcionais
-     -Requisitos não funcionais
-   -Restrições
--Metodologia
-   -Relações de Ambiente de Trabalho
-   -Gerenciamento do Projeto
--Projeto de Interface
-   -Fluxo de Usuários 
-   -Wireframes
 
 - [Informações do Projeto](#informações-do-projeto)
   - [Participantes](#participantes)
