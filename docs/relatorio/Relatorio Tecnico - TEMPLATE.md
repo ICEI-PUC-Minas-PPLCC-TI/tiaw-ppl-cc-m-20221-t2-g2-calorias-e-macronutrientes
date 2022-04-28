@@ -9,10 +9,6 @@ ciências da computação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
 > - Caio Oliveira Lima
 > - Thiago Dutra Rezende
@@ -21,6 +17,27 @@ ciências da computação
 > - Luiz Felipe Luppi Mendonça
 
 # Estrutura do Documento
+-Informações do Projeto
+   -Participantes
+-Estrutura do Documento
+-Introdução
+   -Problema
+   -Objetivo do Projeto
+   -Justificativa
+   -Público-Alvo
+-Especificações do Projeto
+   -Personas e Mapa de Empatia
+   -História de Usuários
+   -Requisitos
+     -Requisitos funcionais
+     -Requisitos não funcionais
+   -Restrições
+-Metodologia
+   -Relações de Ambiente de Trabalho
+   -Gerenciamento do Projeto
+-Projeto de Interface
+   -Fluxo de Usuários 
+   -Wireframes
 
 - [Informações do Projeto](#informações-do-projeto)
   - [Participantes](#participantes)
@@ -128,6 +145,29 @@ Pessoas com interesse em controlar sua alimentação, entre 20 a 60 anos, que j�
 ![persona 3](https://user-images.githubusercontent.com/104525278/165856724-016112ce-631d-481b-8b8d-d2cb5436a841.jpg)
 
 
+> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
+> você deve ser enumerar e descrever precisamente e de forma
+> personalizada todos os principais envolvidos com a solução almeja. 
+> 
+> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
+> e/ou nos seguintes links:
+>
+> **Links Úteis**:
+> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
+> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
+> - [Rock Content](https://rockcontent.com/blog/personas/)
+> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
+> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
+> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
+> 
+> 
+> **Exemplo de Persona**
+> 
+> ![Exemplo de Persona](imaages/../images/persona.png)
+> 
+> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+
+
 ## Histórias de Usuários
 
 ![Captura de Tela (70)](https://user-images.githubusercontent.com/104525278/165852375-43b976ce-785a-4d99-bb9d-acc31ba90bb2.png)
@@ -175,8 +215,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 ## Wireframes
-Tela de Login:
 
+Tela de Login:
 ![image](https://user-images.githubusercontent.com/104468261/165856234-56ea7c9f-44c4-43ea-be4f-9fd3e2eca1f9.png)
 
 > **Links Úteis**:
