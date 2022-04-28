@@ -11,7 +11,7 @@ O projeto teve como objetivo principal resolver o problema de calculo de caloria
 * Luiz Felipe Luppi Mendonça
 ## Professores responsáveis
 
-* Daniel
+* Daniel de Oliveira Capanema
 * Fátima
 
 ## Instruções de utilização
