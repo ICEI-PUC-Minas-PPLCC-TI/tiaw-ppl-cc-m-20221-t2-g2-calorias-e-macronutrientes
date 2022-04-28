@@ -116,7 +116,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-PARTE DO LUIZ
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
@@ -126,10 +125,15 @@ PARTE DO LUIZ
 ## User Flow
 
 ![Captura de Tela (75)](https://user-images.githubusercontent.com/104525278/165855248-c0a92db2-97bd-4f01-8328-51ca187d5698.png)
+início da interface, que permite o usuário ou o prestador de serviços fazer login e entrar em sua devida área de atuação. 
 ![Captura de Tela (77)](https://user-images.githubusercontent.com/104525278/165855437-0e7f01f9-4cab-4c8c-8dc2-16a34dcd6163.png)
+página inicial do usuário que permite buscar alimento, montar um prato, acompanhar resultados e adicionar alimentos às refeições diárias.
 ![Captura de Tela (78)](https://user-images.githubusercontent.com/104525278/165855579-3970e6d5-0fa6-4eac-a364-4edd4fe6a96c.png)
+página com sugestões de receitas relacionadas ao alimento pesquisado na página anterior.
 ![Captura de Tela (79)](https://user-images.githubusercontent.com/104525278/165855680-4904ee7a-ffb3-4425-85cc-051c10da0b6a.png)
+página do prestador de serviços (médico ou nutricionista) que permite ao prestador acompanhar as refeições anteriores de seu cliente e adicionar novas sugestões de alimentos e sua diéta. 
 ![Captura de Tela (80)](https://user-images.githubusercontent.com/104525278/165855779-9dd67424-9e2b-4da8-b924-91b3a1ce9763.png)
+página de seleção de usuário para o prestador de serviços, em que ele poderá selecionar um usuário específico e acompanhar seus resultados ou adicionar alimentos e dietas específicas.
 
 
 ## Wireframes
