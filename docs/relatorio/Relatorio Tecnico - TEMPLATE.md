@@ -288,12 +288,8 @@ PARTE DO LUIZ
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+O produto final do site cumpriu a proposta inicial de ajudar o usuário a conseguir uma dieta mais saudável, perder peso e melhorar seu porte físico, de modo que permite o cadastro de usuários individuais, apesar de não ser uma característica totalmente desenvolvida, permite que o usuário busque por receitas com alguns alimentos, busque alimentos e veja seus macronutrientes (carboidratos, gorduras, proteinas e calorias totais). Apesar disso, tivemos alguns problemas na utilização de uma API que foi utilizada para gerenciar o acesso aos macronutrientes por pesquisa e ter acesso as receitas sugeridas,  o que foi causado pelo desligamento da API utilizada, de acordo com o criador, a API, que era hospedada gratuitamente, começou a ser cobrada e seu uso foi limitado a alguns acessos mensais, desse modo, a API funcionava apenas em algumas tentativas e, em outras, o console retornava acesso bloqueado. Assim, utilizamos um banco de dados via javascript para dar alguns exemplos na pesquisa de alimentos. Por fim, pretendemos utilizar uma API mais adequada, com um bom banco de dados com informações nutritivas e adequá-la ao programa .
 
 
 # Referências
