@@ -36,7 +36,6 @@ Ciências da Computação    PUC-Minas
 - [Metodologia](#metodologia)
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
-  - [Controle de Versão](#controle-de-versão)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
@@ -126,22 +125,34 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 # Projeto de Interface
 
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
 ![Captura de Tela (75)](https://user-images.githubusercontent.com/104525278/165855248-c0a92db2-97bd-4f01-8328-51ca187d5698.png)
+
 início da interface, que permite o usuário ou o prestador de serviços fazer login e entrar em sua devida área de atuação. 
+
 ![Captura de Tela (77)](https://user-images.githubusercontent.com/104525278/165855437-0e7f01f9-4cab-4c8c-8dc2-16a34dcd6163.png)
+
+
 página inicial do usuário que permite buscar alimento, montar um prato, acompanhar resultados e adicionar alimentos às refeições diárias.
+
+
 ![Captura de Tela (78)](https://user-images.githubusercontent.com/104525278/165855579-3970e6d5-0fa6-4eac-a364-4edd4fe6a96c.png)
+
+
 página com sugestões de receitas relacionadas ao alimento pesquisado na página anterior.
+
+
 ![Captura de Tela (79)](https://user-images.githubusercontent.com/104525278/165855680-4904ee7a-ffb3-4425-85cc-051c10da0b6a.png)
+
+
 página do prestador de serviços (médico ou nutricionista) que permite ao prestador acompanhar as refeições anteriores de seu cliente e adicionar novas sugestões de alimentos e sua diéta. 
+
+
 ![Captura de Tela (80)](https://user-images.githubusercontent.com/104525278/165855779-9dd67424-9e2b-4da8-b924-91b3a1ce9763.png)
+
+
 página de seleção de usuário para o prestador de serviços, em que ele poderá selecionar um usuário específico e acompanhar seus resultados ou adicionar alimentos e dietas específicas.
 
 
@@ -162,23 +173,6 @@ Login como Usuário Final:
 
 # Metodologia
 
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
-
 ## Divisão de Papéis
 
 
@@ -190,41 +184,6 @@ Login como Usuário Final:
 ![Captura de Tela (82)](https://user-images.githubusercontent.com/104525278/165859441-1297c158-1859-43d1-9145-077eb6141cc1.png)
 ![Captura de Tela (83)](https://user-images.githubusercontent.com/104525278/165859448-e6a01be5-2cf6-463f-8d54-abecefd7c51d.png)
 
-
-## Controle de Versão
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
 
 
 # Projeto da Solução
@@ -299,11 +258,6 @@ O sexto artefado a ser testado foi o de "receitas sugeridas", que tinha como obj
 ![Captura de Tela (167)](https://user-images.githubusercontent.com/104525278/177892751-429a9b8d-4f59-4204-be1b-774523067cf4.png)
 O último elemento a ser testado foi a calculadora de macronutrientes, que teve êxito nos testes.
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
 
 
 
