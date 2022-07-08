@@ -129,31 +129,30 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## User Flow
 
 ![Captura de Tela (75)](https://user-images.githubusercontent.com/104525278/165855248-c0a92db2-97bd-4f01-8328-51ca187d5698.png)
-
-início da interface, que permite o usuário ou o prestador de serviços fazer login e entrar em sua devida área de atuação. 
+Iinício da interface, que permite o usuário ou o prestador de serviços fazer login e entrar em sua devida área de atuação. 
 
 ![Captura de Tela (77)](https://user-images.githubusercontent.com/104525278/165855437-0e7f01f9-4cab-4c8c-8dc2-16a34dcd6163.png)
 
 
-página inicial do usuário que permite buscar alimento, montar um prato, acompanhar resultados e adicionar alimentos às refeições diárias.
+Página inicial do usuário que permite buscar alimento, montar um prato, acompanhar resultados e adicionar alimentos às refeições diárias.
 
 
 ![Captura de Tela (78)](https://user-images.githubusercontent.com/104525278/165855579-3970e6d5-0fa6-4eac-a364-4edd4fe6a96c.png)
 
 
-página com sugestões de receitas relacionadas ao alimento pesquisado na página anterior.
+Página com sugestões de receitas relacionadas ao alimento pesquisado na página anterior.
 
 
 ![Captura de Tela (79)](https://user-images.githubusercontent.com/104525278/165855680-4904ee7a-ffb3-4425-85cc-051c10da0b6a.png)
 
 
-página do prestador de serviços (médico ou nutricionista) que permite ao prestador acompanhar as refeições anteriores de seu cliente e adicionar novas sugestões de alimentos e sua diéta. 
+Página do prestador de serviços (médico ou nutricionista) que permite ao prestador acompanhar as refeições anteriores de seu cliente e adicionar novas sugestões de alimentos e sua diéta. 
 
 
 ![Captura de Tela (80)](https://user-images.githubusercontent.com/104525278/165855779-9dd67424-9e2b-4da8-b924-91b3a1ce9763.png)
 
 
-página de seleção de usuário para o prestador de serviços, em que ele poderá selecionar um usuário específico e acompanhar seus resultados ou adicionar alimentos e dietas específicas.
+Página de seleção de usuário para o prestador de serviços, em que ele poderá selecionar um usuário específico e acompanhar seus resultados ou adicionar alimentos e dietas específicas.
 
 
 ## Wireframes
@@ -223,7 +222,7 @@ User Flow e Wireframe de como o usuário prosseguiria ao clicar na aba de receit
 ## Arquitetura da solução
 
 ![z](https://user-images.githubusercontent.com/104525278/177894116-61b163bb-517f-4eb0-b239-81784a359217.jpg)
-O site criado tem com principal fonte de banco de dados  o localStorage, já que as informações cadastradas com os alimentos, macronutrientes e usuários são armazenados lá. Apesar disso, o projeto inicial tinha como fonte principal de dados uma API com informações nutricionais hospedada no Heroku, mas infelizmente ela foi desativada e os acessos mensais reduzidos, desse modo, optamos por colocar informações-exemplo no localStorage para que o site fique funcional.
+O site criado tem com principal fonte de banco de dados  o localStorage, já que as informações cadastradas como os alimentos, macronutrientes e usuários são armazenados lá. Apesar disso, o projeto inicial tinha como fonte principal de dados uma API com informações nutricionais hospedada no Heroku, mas infelizmente ela foi desativada e os acessos mensais reduzidos, desse modo, optamos por colocar informações-exemplo no localStorage para que o site fique funcional.
 
 
 
@@ -250,10 +249,10 @@ O quarto foi o cadastro de refeições, que tem como principal objetivo cadastra
 
 ![Captura de Tela (166)](https://user-images.githubusercontent.com/104525278/177891632-3af97731-d6fc-47bf-9ad1-9be38023c79d.png)
 ![Captura de Tela (165)](https://user-images.githubusercontent.com/104525278/177891636-7124cb53-4743-4794-add3-e8119f84c646.png)
-O quinto foi a pesquisa de alimentos. A princípio, planejavamos fazer uma busca por barra de pesquisa em uma API, porém, durante o periodo de testes essa API oscilou e deixava de funcionar muitas vezes, retornando um erro de bloqueio. De acordo com o desenvolvedor, o site em que a API estava hospedada (Heroku), passou a cobrar pela hospedagem e, por isso, as requisições passaram a ser limitadas. Desse modo, decidimos criar um 'mini banco de dados' no localsorage, para que as pesquisas fossem feitas com alguns exempplos como: "Arroz", "Feijão" e outros, que retornam algumas informações básicas sobre o alimento.
+O quinto foi a pesquisa de alimentos. A princípio, planejavamos fazer uma busca por barra de pesquisa em uma API, porém, durante o período de testes essa API oscilou e deixava de funcionar muitas vezes, retornando um erro de bloqueio. De acordo com o desenvolvedor, o site em que a API estava hospedada (Heroku), passou a cobrar pela hospedagem e, por isso, as requisições passaram a ser limitadas. Desse modo, decidimos criar um 'mini banco de dados' no localstorage, para que as pesquisas fossem feitas com alguns exemplos como: "Arroz", "Feijão" e outros, que retornam algumas informações básicas sobre o alimento.
 
 ![Captura de Tela (168)](https://user-images.githubusercontent.com/104525278/177892132-c5e429a6-238b-433e-be84-ff6142c0884d.png)
-O sexto artefado a ser testado foi o de "receitas sugeridas", que tinha como objetivo recomendar receitas por pesquisa com auxilio da mesma API que foi utilizada na busca de alimentos, mas, da mesma maneira, os testes fracassaram, já que as pesquisar retornavam os resultados desejados em poucas tentativas e na maioria retornava que o acesso a API foi bloqueado. Dessa maneira, resolvemos criar um template em HTML e CSS, para exemplificar como as pesquisas seriam feitas da maneira adequada, e retornariam as receitas relacionadas ao alimento pesquisado.
+O sexto artefato a ser testado foi o de "receitas sugeridas", que tinha como objetivo recomendar receitas por pesquisa com auxílio da mesma API que foi utilizada na busca de alimentos, mas, da mesma maneira, os testes fracassaram, já que as pesquisas retornavam os resultados desejados em poucas tentativas e, na maioria, retornavam que o acesso à API foi bloqueado. Dessa maneira, resolvemos criar um template em HTML e CSS, para exemplificar como as pesquisas seriam feitas da maneira adequada, e retornariam as receitas relacionadas ao alimento pesquisado.
 
 ![Captura de Tela (167)](https://user-images.githubusercontent.com/104525278/177892751-429a9b8d-4f59-4204-be1b-774523067cf4.png)
 O último elemento a ser testado foi a calculadora de macronutrientes, que teve êxito nos testes.
@@ -264,7 +263,7 @@ O último elemento a ser testado foi a calculadora de macronutrientes, que teve 
 ## Registros de Testes
 
 
-O produto final do site cumpriu a proposta inicial de ajudar o usuário a conseguir uma dieta mais saudável, perder peso e melhorar seu porte físico, de modo que permite o cadastro de usuários individuais, apesar de não ser uma característica totalmente desenvolvida, permite que o usuário busque por receitas com alguns alimentos, busque alimentos e veja seus macronutrientes (carboidratos, gorduras, proteinas e calorias totais). Apesar disso, tivemos alguns problemas na utilização de uma API que foi utilizada para gerenciar o acesso aos macronutrientes por pesquisa e ter acesso as receitas sugeridas,  o que foi causado pelo desligamento da API utilizada, de acordo com o criador, a API, que era hospedada gratuitamente, começou a ser cobrada e seu uso foi limitado a alguns acessos mensais, desse modo, a API funcionava apenas em algumas tentativas e, em outras, o console retornava acesso bloqueado. Assim, utilizamos um banco de dados via javascript para dar alguns exemplos na pesquisa de alimentos. Por fim, pretendemos utilizar uma API mais adequada, com um bom banco de dados com informações nutritivas e adequá-la ao programa .
+O produto final do site cumpriu a proposta inicial de ajudar o usuário a conseguir uma dieta mais saudável, perder peso e melhorar seu porte físico, de modo que permite o cadastro de usuários individuais, apesar de não ser uma característica totalmente desenvolvida, permite que o usuário busque por receitas com alguns alimentos, busque alimentos e veja seus macronutrientes (carboidratos, gorduras, proteinas e calorias totais). Apesar disso, tivemos alguns problemas na utilização de uma API para gerenciar o acesso aos macronutrientes por pesquisa e ter acesso às receitas sugeridas,  o que foi causado pelo desligamento da API utilizada, de acordo com o criador, a API, que era hospedada gratuitamente, começou a ser cobrada e seu uso foi limitado a alguns acessos mensais, desse modo, a API funcionava apenas em algumas tentativas e, em outras, o console retornava acesso bloqueado. Assim, utilizamos um banco de dados via javascript para dar alguns exemplos na pesquisa de alimentos. Por fim, pretendemos utilizar uma API mais adequada, com um bom banco de dados com informações nutritivas e adequá-la ao programa .
 
 
 # Referências
