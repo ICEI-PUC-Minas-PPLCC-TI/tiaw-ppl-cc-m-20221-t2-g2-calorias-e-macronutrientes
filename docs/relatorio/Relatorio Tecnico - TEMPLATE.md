@@ -227,20 +227,27 @@ PARTE DO LUIZ
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para o esclarecimento do problema e a implementação da solução foram utilizadas diversas ferramentas e tecnologias. O Visual Studio Code foi a principal plataforma na qual o código do web site foi desenvolvido, entretanto também foram utilizadas outras plataformas como o Replit e algumas outras. As linguagens utilizadas para realização do projeto do foram o HTML, uma linguagem de marcação utilizada na construção de páginas na Web; o CSS, que é um mecanismo para adicionar estilo a um documento web; e por último o JavaScript que é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. 
+O Bootstrap, que é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript foi também utilizado.
+![fluxo de usuario inicio](https://user-images.githubusercontent.com/104467585/177893281-509ddc05-87a0-4911-a1ae-58d421157fa5.png)
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+![wireframe 1 inicio](https://user-images.githubusercontent.com/104467585/177893246-7eb97093-bddb-4b78-8f75-f224163a9323.png)
+Aqui temos o primeiro User Flow e Wireframe criado pelo grupo no qual a ideia inicial era realizar dois tipos de um login; um de usuários comuns e outro de prestadores de serviços como nutricionistas. Ideia que foi estudada e descartada quando houve a realização da falta de utilização desta.
+
+![fluxo de usuariio final](https://user-images.githubusercontent.com/104467585/177893340-61c524a6-70ea-4876-aebd-b55a2a9066c0.png)
+
+![wireframe 1 usuario final](https://user-images.githubusercontent.com/104467585/177893351-02625027-21db-456a-b5c2-d77fa83f395f.png)
+
+User Flow e Wireframe da página inicial do usuário na qual a ideia da criação de uma dieta específica para cada usuário foi descartada devido à falta de integração com um prestador de serviço. Entretanto as abas de buscar alimento e meus resultados foram desenvolvidas com funcionalidade e dinâmica.
+
+
+![fluxo 2 usuario final](https://user-images.githubusercontent.com/104467585/177893368-00782835-63e5-490f-a355-992f2127460a.png)
+
+![wireframe 2 usuario final](https://user-images.githubusercontent.com/104467585/177893375-0fe64f70-ca67-4d85-8a31-036bff36d2e3.png)
+
+User Flow e Wireframe de como o usuário prosseguiria ao clicar na aba de receitas com o alimento desejado. Uma série de três receitas com os ingredientes e o modo de preparo surgiram na tela da web.
+
+
 
 ## Arquitetura da solução
 
