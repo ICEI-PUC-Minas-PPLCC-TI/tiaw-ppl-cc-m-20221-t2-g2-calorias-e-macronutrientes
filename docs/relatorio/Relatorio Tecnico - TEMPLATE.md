@@ -1,8 +1,9 @@
 # Informações do Projeto
-CALORIE MAP  
+CALORIE MAP 
+T2-G2 Cálculo de Caloria e Macronutrientes 
 
 
-ciências da computação
+Ciências da Computação    PUC-Minas
 
 
 ## Participantes
