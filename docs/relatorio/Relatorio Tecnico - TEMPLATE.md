@@ -267,6 +267,15 @@ o primeiro foi a página de login, que é de acesso obrigatório ao entrar no si
 ![Captura de Tela (169)](https://user-images.githubusercontent.com/104525278/177891143-7e64dc81-0809-4d4c-b265-a86a53c0dca8.png)
 O segundo foi a página de cadastro de novos usuários, que tem um cadastro feito pelo LocalStorage e te redireciona diretamente para a página inicial.
 
+![Captura de Tela (171)](https://user-images.githubusercontent.com/104525278/177891343-ae873a35-79c9-4998-bff3-431160215041.png)
+o Terceiro foi a página inicial, que tem como principal função redirecionar o usuário para as ferramentas do site.
+
+![Captura de Tela (164)](https://user-images.githubusercontent.com/104525278/177891431-a8aea822-7e1e-46c1-b28c-7fbbcdc5932b.png)
+O quarto foi o cadastro de refeições, que tem como principal objetivo cadastrar as refeições do usuário quantas vezes forem necessárias. ALém disso, a funcionalidade permite que essas refeições sejam armazenadas.
+
+![Captura de Tela (166)](https://user-images.githubusercontent.com/104525278/177891632-3af97731-d6fc-47bf-9ad1-9be38023c79d.png)
+![Captura de Tela (165)](https://user-images.githubusercontent.com/104525278/177891636-7124cb53-4743-4794-add3-e8119f84c646.png)
+O quinto foi a pesquisa de alimentos. A princípio, planejavamos fazer uma busca por barra de pesquisa em uma API, porém, durante o periodo de testes essa API oscilou e deixava de funcionar muitas vezes, retornando um erro de bloqueio. De acordo com o desenvolvedor, o site em que a API estava hospedada (Heroku), passou a cobrar pela hospedagem e, por isso, as requisições passaram a ser limitadas. Desse modo, decidimos criar um 'mini banco de dados' no localsorage, para que as pesquisas fossem feitas com alguns exempplos como: "Arroz", "Feijão" e outros, que retornam algumas informações básicas sobre o alimento.
 
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
