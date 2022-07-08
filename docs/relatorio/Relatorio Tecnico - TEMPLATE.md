@@ -256,15 +256,18 @@ PARTE DO LUIZ
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+As avaliações foram feitas com base na proposta de solução desenvolvida pelo grupo. O primeiro cenário a ser testado é a pagina de login, o segundo é a página de cadastro de novos usuários, o terceiro é o cadastro de refeições, o quarto é a calculadora de macronutrientes e o quinto são as receitas sugeridas.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os testes foram feitos utilzando mesmbros do grupo e colegas de sala como usuários.
+![Captura de Tela (170)](https://user-images.githubusercontent.com/104525278/177891045-0326f760-0eb7-4049-b422-a1d675435f2a.png)
+o primeiro foi a página de login, que é de acesso obrigatório ao entrar no site.
+
+![Captura de Tela (169)](https://user-images.githubusercontent.com/104525278/177891143-7e64dc81-0809-4d4c-b265-a86a53c0dca8.png)
+O segundo foi a página de cadastro de novos usuários, que tem um cadastro feito pelo LocalStorage e te redireciona diretamente para a página inicial.
+
+
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
