@@ -37,7 +37,6 @@ Ciências da Computação    PUC-Minas
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
@@ -227,12 +226,9 @@ Login como Usuário Final:
 >
 > ![Exemplo de Wireframe](images/Github-Workflow.png)
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Tecnologias Utilizadas
 
@@ -314,15 +310,6 @@ O último elemento a ser testado foi a calculadora de macronutrientes, que teve 
 > - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
 > -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 
