@@ -267,14 +267,12 @@ User Flow e Wireframe de como o usuário prosseguiria ao clicar na aba de receit
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+![z](https://user-images.githubusercontent.com/104525278/177894116-61b163bb-517f-4eb0-b239-81784a359217.jpg)
+
 
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+
 
 
 # Avaliação da Aplicação
