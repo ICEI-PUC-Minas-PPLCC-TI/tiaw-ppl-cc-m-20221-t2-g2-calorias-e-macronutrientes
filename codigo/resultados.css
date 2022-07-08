@@ -1,0 +1,50 @@
+.header{
+    background-color: #40e0d0;
+}
+
+.logo1 {
+text-align: left;
+width: 160px;
+height: 80px;
+}
+
+.meusr{
+    background-color: #40e0d0;
+}
+
+.rr{
+    text-align: center;
+}
+
+.grafico{
+    height: 270px;
+    width: 300px;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.consumo{
+    font-size: x-large;
+    text-align: center;
+}
+
+.faixa{
+    height: 20px;
+    background-color: white;
+}
+
+.footer{
+    background-color: #40e0d0;
+}
+
+.logo2{
+    text-align: right;
+height: 80px;
+width: 180px;
+}
+
+.coluna{
+    background-color: #ff6961;
+    padding-top: 10px;
+}

@@ -1,0 +1,126 @@
+.header{
+    background-color: #40e0d0;
+}
+
+.logo1 {
+text-align: left;
+width: 160px;
+height: 80px;
+}
+
+.balimentos{
+    text-align: center;
+}
+
+
+.alimento{
+    height: 80px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.sugestoes{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.salimento{
+    width: 270px;
+    padding-bottom: 40px;
+}
+
+.busca{
+    padding-bottom: 60px;
+    padding-top: 20px;
+    height: 60px;
+    font-size: xx-large;
+    
+}
+
+.tabela{
+max-width: 100%;
+}
+
+.titulo2{
+    
+    
+    max-width: 100%;
+    text-align: center;
+    font-size: 1.5em;
+
+}
+
+
+.btn{
+    
+}
+
+.tabela{
+    width: 400px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.resultados{
+    height: 80px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.titulo{
+    
+    
+    max-width: 100%;
+
+    font-size: x-large;
+}
+
+
+
+
+.primeiro{
+    background-color: #ff6961;
+    text-align: center;
+}
+
+.primeiro h1.titulo{
+max-width: 100%;
+}
+
+.h1.titulo2{
+    max-width: 100%;
+    word-wrap: break-word;
+}
+
+img.salimento{
+    max-width: 100%;
+}
+
+.segundo{
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: #40e0d0;
+}
+
+.terceiro{
+    background-color: #ff6961;
+    text-align: center ;
+    padding-right: 
+    20px;
+    padding-bottom: 20px;
+}
+
+.linha{
+    background-color: white;
+    height: 20px;
+}
+
+.footer{
+    background-color: #40e0d0;
+}
+
+.logo2{
+    text-align: right;
+height: 80px;
+width: 180px;
+}

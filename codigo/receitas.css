@@ -1,0 +1,71 @@
+.header{
+    background-color: #40e0d0;
+
+}
+
+
+.logo1{
+width: 160px;
+height: 80px;
+}
+
+.row{
+margin-left: 0px;
+}
+.row.sugestoes{
+    max-width: 100%;
+    text-align: center;
+    background-color: #ff6961;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.receita1
+{
+    max-width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #40e0d0;
+}
+
+.receita2
+{
+    max-width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #40e0d0;
+}
+
+.receita3{
+    max-width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#40e0d0;
+}
+
+.titulo1{
+    font-size:larger;
+}
+
+.titulo2{
+    font-size: large;
+}
+
+.texto{
+    font-size:small;
+}
+
+.linha{
+    background-color: white;
+    height: 20px;
+}
+
+.footer{
+    background-color: #40e0d0;
+}
+
+.logo2{
+    text-align: right;
+height: 80px;
+width: 180px;
+}

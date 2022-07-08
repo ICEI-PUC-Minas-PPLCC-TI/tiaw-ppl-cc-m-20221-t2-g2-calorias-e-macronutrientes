@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylecadastro.css">
+    <title>cadastro de alimentos</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="form-image">
+              <img src="imgs/undraw_breakfast_psiw.svg">
+          </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-8">
+          <div class="form">
+            <form id="formulario" action="#">
+                <div class="form-header">
+                    <div class="title">
+                        <h1>Cadastre-se</h1>
+                    </div>
+                </div>
+
+                <div class="input-group">
+                    <div class="input-box">
+                        <label for="email">Email</label>
+                        <input id="email" type="text" name="email" placeholder="Digite seu Email...">
+                    </div>
+                    <div class="input-box">
+                        <label for="username">Username</label>
+                        <input id="username" type="text" name="username" placeholder="Digite seu Username...">
+                    </div>
+                    <div class="input-box">
+                        <label for="senha">Senha</label>
+                        <input id="senha" type="password" name="senha" placeholder="Digite sua Senha">
+                    </div>
+                    <div class="salvar">
+                        <button type="submit" id="salvar"><a>salvar</a></button>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+        </div>
+      </div>
+    </div>
+    <script src="app.js"></script>
+    <script src="cadastro.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+</body>
+</html>
