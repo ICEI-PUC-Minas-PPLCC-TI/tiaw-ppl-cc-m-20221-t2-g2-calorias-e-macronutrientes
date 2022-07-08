@@ -7,8 +7,7 @@ O projeto teve como objetivo principal resolver o problema de calculo de caloria
 * Caio Oliveira Lima
 * Henrique Leite Najar
 * Luis Henrique Dusanek Guedes
-* Thiago Dutra Rezende
-* Luiz Felipe Luppi Mendonça
+
 ## Professores responsáveis
 
 * Daniel de Oliveira Capanema
