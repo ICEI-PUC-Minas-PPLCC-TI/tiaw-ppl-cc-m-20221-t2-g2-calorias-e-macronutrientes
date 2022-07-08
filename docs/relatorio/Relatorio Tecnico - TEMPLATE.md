@@ -267,8 +267,6 @@ User Flow e Wireframe de como o usuário prosseguiria ao clicar na aba de receit
 O site criado tem com principal fonte de banco de dados  o localStorage, já que as informações cadastradas com os alimentos, macronutrientes e usuários são armazenados lá. Apesar disso, o projeto inicial tinha como fonte principal de dados uma API com informações nutricionais hospedada no Heroku, mas infelizmente ela foi desativada e os acessos mensais reduzidos, desse modo, optamos por colocar informações-exemplo no localStorage para que o site fique funcional.
 
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
 
 
 
@@ -306,10 +304,7 @@ O último elemento a ser testado foi a calculadora de macronutrientes, que teve 
 > de usuários que foi escolhido para participar do teste e as
 > ferramentas utilizadas.
 > 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+
 
 
 ## Registros de Testes
@@ -320,11 +315,6 @@ O produto final do site cumpriu a proposta inicial de ajudar o usuário a conseg
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+FORMS. BOOTSTRAP, 2022. Disponível em: <[URL](https://getbootstrap.com/docs/5.2/forms/overview/)>. Acesso em: 24, junho de 2022.
+BUTTONS. BOOTSTRAP, 2022. Disponível em: <[URL](https://getbootstrap.com/docs/5.2/components/buttons/)>. Acesso em: 24, junho de 2022.
+EXERCÍCIOS. MyFitnessPal, 2022. Disponível em: <[URL](https://www.myfitnesspal.com/pt)>. Acesso em: 25, junho de 2022.
