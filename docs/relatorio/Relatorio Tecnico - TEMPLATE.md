@@ -53,24 +53,35 @@ ciências da computação
 
 ## Problema
 
-Durante o processo de emagrecimento e/ou ganho muscular, as pessoas tendem a encontrar barreiras como: entender quais alimentos podem ou não ser consumidos e as suas quantidades, além disso, podem ter alguns problemas gerados pela má alimentação em relação aos nutrientes essenciais para o funcionamento ideal do corpo.
+    De acordo com a Pesquisa Nacional de Saúde (PNS, 2020), atualmente mais da metade dos adultos apresentam excesso de peso (60,3%, o que representa 96 milhões de pessoas), com prevalência maior no público feminino (62,6%) do que no masculino (57,5%). Isso se deve principalmente ao fato da má alimentação dos brasileiros e brasileiras e a falta de controle sobre sua dieta e a quantidade de calorias e nutrientes adquiridos ao longo do dia.
+    A obesidade está relacionada ao aumento do risco de doenças como as do coração, diabetes, hipertensão arterial sistêmica, doença do fígado e diversos tipos de câncer (como o de cólon, de reto e de mama), problemas renais, asma, agravamento da covid, dores nas articulações, entre outras, reduzindo a qualidade e a expectativa de vida. Além disso, as evidências apontam a obesidade como importante fator de risco para a forma grave e letal da Covid-19.
+    Existem também as pessoas que durante o processo de emagrecimento e/ou ganho muscular, tendem a encontrar barreiras como: entender quais alimentos podem ou não ser consumidos e as suas quantidades, além disso, podem ter alguns problemas gerados pela má alimentação em relação aos nutrientes essenciais para o funcionamento ideal do corpo.
+    Devido a esses problemas que a má alimentação e ignorância das pessoas geram a respeito de nutrientes e calorias, é necessário uma assistência para que se possa atingir uma melhor qualidade de vida de forma mais rápida e segura.
+
 
 
 
 ## Objetivos
 
-Melhorar a qualidade de vida e a informação das pessoas que procuram uma melhor forma de alimentação, além de ajudar tais pessoas a atingir seus objetivos estéticos e em relação a saúde.
+      Para solucionar os problemas citados acima e ajudar as pessoas com suas dietas e a se tornarem mais saudáveis com uma maior qualidade de vida, o projeto Calorie MAP tem o intuito de ajudar as pessoas a contarem as calorias consumidas ao longo do dia, além de dar dicas e sugestões sobre receitas com os  alimentos procurados para ajudar as pessoas a encontrarem o que elas estão procurando. 
+      Melhorar a qualidade de vida e a informação das pessoas que procuram uma melhor forma de alimentação, além de ajudar tais pessoas a atingir seus objetivos estéticos e em relação a saúde é o foco principal do projeto que está sendo desenvolvido para ajudar o máximo número de pessoas.
+
 
 
 ## Justificativa
 
-Em geral, as pessoas encontram dificuldades a respeito de calcular a quantidade de calorias e nutrientes que elas consomem. O projeto facilita a vida de tais usuários como uma forma mais fácil de controlar sua alimentação e conseguirem atingir seus objetivos.
+      Devido a correria do dia dia e a adesão de hábitos alimentares já prejudiciais para a sua saúde, as pessoas encontram dificuldades sobre como calcular a quantidade de calorias e nutrientes que elas consomem, fator importante quando se tem um objetivo relacionado à melhora da alimentação e da qualidade de vida.
+      O projeto facilita a vida de tais usuários como uma forma mais fácil de controlar sua alimentação e conseguirem atingir seus objetivos, realizando a contagem das calorias consumidas durante um dia, além de possíveis sugestões de alimentos e receitas saudáveis.
+
 
 
 
 ## Público-Alvo
 
-Pessoas com interesse em controlar sua alimentação, entre 20 a 60 anos, que já atingiram uma maturidade e buscam informações para melhorar sua saúde/estética.
+      Em média, as pessoas começam a se preocupar com sua estética e, consequentemente, sua alimentação por volta de 14 anos. Dessa idade para frente já se tem uma maior consciência sobre a qualidade dos alimentos e os benefícios e malefícios que eles podem causar.
+      Por esse motivo, pessoas com interesse em controlar sua alimentação, entre 15 a 60 anos, que já atingiram uma maturidade e buscam informações para melhorar sua saúde/estética, são considerados o público principal e que provavelmente mais irá utilizar da plataforma. 
+      Entretanto, é importante ressaltar que todas as idades se beneficiam com a utilização e uso da Calorie MAP, uma vez que saúde, qualidade de vida e bem estar são importantes em todas as fases da vida. Porém, entendemos que por se tratar de uma plataforma realizada e necessitada da Web, pessoas mais velhas sem conhecimento tecnológico ou então muito novas em que não se atingiu a maturidade necessária para mexer com tal ferramenta não poderão usufruir da plataforma de forma independente, necessitando do auxílio de familiares e amigos para seu uso.
+
 
 
  
@@ -229,6 +240,13 @@ PARTE DO LUIZ
 
 Para o esclarecimento do problema e a implementação da solução foram utilizadas diversas ferramentas e tecnologias. O Visual Studio Code foi a principal plataforma na qual o código do web site foi desenvolvido, entretanto também foram utilizadas outras plataformas como o Replit e algumas outras. As linguagens utilizadas para realização do projeto do foram o HTML, uma linguagem de marcação utilizada na construção de páginas na Web; o CSS, que é um mecanismo para adicionar estilo a um documento web; e por último o JavaScript que é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. 
 O Bootstrap, que é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript foi também utilizado.
+
+
+
+
+
+
+
 ![fluxo de usuario inicio](https://user-images.githubusercontent.com/104467585/177893281-509ddc05-87a0-4911-a1ae-58d421157fa5.png)
 
 ![wireframe 1 inicio](https://user-images.githubusercontent.com/104467585/177893246-7eb97093-bddb-4b78-8f75-f224163a9323.png)
