@@ -264,6 +264,7 @@ User Flow e Wireframe de como o usuário prosseguiria ao clicar na aba de receit
 ## Arquitetura da solução
 
 ![z](https://user-images.githubusercontent.com/104525278/177894116-61b163bb-517f-4eb0-b239-81784a359217.jpg)
+O site criado tem com principal fonte de banco de dados  o localStorage, já que as informações cadastradas com os alimentos, macronutrientes e usuários são armazenados lá. Apesar disso, o projeto inicial tinha como fonte principal de dados uma API com informações nutricionais hospedada no Heroku, mas infelizmente ela foi desativada e os acessos mensais reduzidos, desse modo, optamos por colocar informações-exemplo no localStorage para que o site fique funcional.
 
 
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
