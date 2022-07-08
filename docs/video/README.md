@@ -1,8 +1,7 @@
 # Vídeos do Projeto
-A relação abaixo lista os vídeos feitos para o projeto:
- - [Vídeo AAAAAAAA]()
- - [Vídeo BBBBBBBB]()
 
-> Nesta pasta inclua arquivos de vídeo produzidos para divulgação do 
-> projeto e seus resutados.
+ Link do video com as especificações do software completo: https://youtu.be/OGGH0iVOVGc
+
+  Link do video utilizado para a apresentação em sala:  https://youtu.be/uiktZOztYbE
+
 
