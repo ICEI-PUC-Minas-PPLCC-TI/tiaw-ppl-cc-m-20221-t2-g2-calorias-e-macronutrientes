@@ -15,4 +15,4 @@ O projeto teve como objetivo principal resolver o problema de calculo de caloria
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Se registre ou faça login, depois acesse alguma das funcionalidades do site (calculadora de macronutrientes, registro de refeições, pesquisa de alimentos e pesquisa de receitas).
