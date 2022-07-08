@@ -277,6 +277,11 @@ O quarto foi o cadastro de refeições, que tem como principal objetivo cadastra
 ![Captura de Tela (165)](https://user-images.githubusercontent.com/104525278/177891636-7124cb53-4743-4794-add3-e8119f84c646.png)
 O quinto foi a pesquisa de alimentos. A princípio, planejavamos fazer uma busca por barra de pesquisa em uma API, porém, durante o periodo de testes essa API oscilou e deixava de funcionar muitas vezes, retornando um erro de bloqueio. De acordo com o desenvolvedor, o site em que a API estava hospedada (Heroku), passou a cobrar pela hospedagem e, por isso, as requisições passaram a ser limitadas. Desse modo, decidimos criar um 'mini banco de dados' no localsorage, para que as pesquisas fossem feitas com alguns exempplos como: "Arroz", "Feijão" e outros, que retornam algumas informações básicas sobre o alimento.
 
+![Captura de Tela (168)](https://user-images.githubusercontent.com/104525278/177892132-c5e429a6-238b-433e-be84-ff6142c0884d.png)
+O sexto artefado a ser testado foi o de "receitas sugeridas", que tinha como objetivo recomendar receitas por pesquisa com auxilio da mesma API que foi utilizada na busca de alimentos, mas, da mesma maneira, os testes fracassaram, já que as pesquisar retornavam os resultados desejados em poucas tentativas e na maioria retornava que o acesso a API foi bloqueado. Dessa maneira, resolvemos criar um template em HTML e CSS, para exemplificar como as pesquisas seriam feitas da maneira adequada, e retornariam as receitas relacionadas ao alimento pesquisado.
+
+![Captura de Tela (167)](https://user-images.githubusercontent.com/104525278/177892751-429a9b8d-4f59-4204-be1b-774523067cf4.png)
+O último elemento a ser testado foi a calculadora de macronutrientes, que teve êxito nos testes.
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
